@@ -8,12 +8,12 @@ The application could not run because of the following error:
 
 ## Details
 
-**Type:** Error
-**Code:** 0
-**Message:** Call to undefined method Slim\Psr7\Request::isGet()
-**File:** /var/www/app/public/index.php
-**Line:** 21
-
+**Type:** Error  
+**Code:** 0  
+**Message:** Call to undefined method Slim\Psr7\Request::isGet()  
+**File:** /var/www/app/public/index.php  
+**Line:** 21  
+  
 ## Trace
 
     #0 /var/www/app/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(38): {closure}(Object(Slim\Psr7\Request), Object(Slim\Psr7\Response), Array)
